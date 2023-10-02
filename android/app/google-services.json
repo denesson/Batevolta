@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442146529413",
+    "project_id": "atividade3-c863d",
+    "storage_bucket": "atividade3-c863d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442146529413:android:2708062ea3f61df84b09ec",
+        "android_client_info": {
+          "package_name": "com.atividade3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuJdlEpXJERGzIPF_80e4-PvBE9XZ4XXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
